@@ -2,6 +2,8 @@
 
 A Terraform module to configure remote state storage and locking using S3 and DynamoDB.
 
+[Terraform Registry](https://registry.terraform.io/modules/mscribellito/s3-backend/aws/latest)
+
 ## Usage
 
 ```hcl
